@@ -1,5 +1,9 @@
 <h1 align="center">Greetings 🖖</h1>
 
+<p align="center">
+  You can <a href="https://nicco.io/about">read more here</a> but the TLDR; is: I passionately code and build stuff 🤓
+</p>
+
 <br/>
   <h3 align="center">Donate / Support</h3>
   <p align="center">

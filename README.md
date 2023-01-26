@@ -24,12 +24,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cupcakearmy&show_icons=true&border_radius=20&bg_color=30,e96443,904e95&title_color=fff&text_color=eee&icon_color=fff" alt="Github stats" /> -->
 </p>
-
-<br/>
-<br/>
-<p align="center">
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=cupcakearmy&show_icons=true&theme=gruvbox&border_radius=16&hide_title=true" />
-  <br/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=cupcakearmy&theme=gruvbox&border_radius=16&hide_title=true&langs_count=10&layout=compact&exclude_repo=R6S,fight-of-the-mobiles"/>
-</p>
-

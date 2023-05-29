@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 🖖</h1>
 
 <p align="center">
-  You can <a href="https://nicco.io/about">read more here</a> but the TLDR; is: I passionately code and build stuff 🤓
+  You can <a href="https://nicco.io/about">read more here</a> but the TLDR; I passionately code and build stuff 🤓
   <br><br>
   <a target="_blank" href="https://discord.gg/wS7RpYTYd2">
     <img src="https://img.shields.io/discord/252403122348097536?style=flat-square" alt="discord badge" />
